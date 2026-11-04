@@ -1,0 +1,42 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Downloaded datasets
+data/
+datasets/
+*.npz
+
+# Trained machine learning models
+models/
+*.pt
+*.pth
+*.ckpt
+
+# Experiment outputs
+outputs/
+runs/
+logs/
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db

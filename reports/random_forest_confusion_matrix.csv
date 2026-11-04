@@ -1,0 +1,9 @@
+,basophil,eosinophil,erythroblast,"immature granulocytes(myelocytes, metamyelocytes and promyelocytes)",lymphocyte,monocyte,neutrophil,platelet
+basophil,124,20,0,73,12,12,3,0
+eosinophil,0,575,1,24,3,0,20,1
+erythroblast,8,0,254,27,5,0,14,3
+"immature granulocytes(myelocytes, metamyelocytes and promyelocytes)",13,29,3,446,15,16,57,0
+lymphocyte,7,1,13,19,199,1,3,0
+monocyte,14,16,1,104,1,142,6,0
+neutrophil,0,11,9,19,2,0,624,0
+platelet,0,0,2,0,0,0,0,468
